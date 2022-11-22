@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Mendes, estudante de programação e amante da tecnologia!
+## Front-end Engineer
 
 <div align="center">
 <a href="https://https://github.com/mendex94/">
