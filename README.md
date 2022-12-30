@@ -10,8 +10,10 @@ I've been learning how to program for 2 years, starting with JavaScript, passion
 *   🖥️  See my portfolio at [@MNDX.TECH](http://mndx.tech)
 *   🚀  I'm currently working on [@LAYBACK.ME](http://bot.layback.me)
 *   🧠  I'm learning everything JavaScript
-*   🤝  I'm open to collaborating on opensource projects<a href="https://www.twitch.tv/mendex94" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/mendex94?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+*   🤝  I'm open to collaborating on opensource projects
+
+<a href="https://www.twitch.tv/mendex94" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/mendex94?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
