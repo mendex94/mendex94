@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I've been learning how to program for 2 years, starting with JavaScript, passionate about all aspects of programming but decided to focus on front-end development and today I'm working at @Layback.me
-
 *   🌍  I'm based in São Paulo, Brazil
-*   🖥️  See my portfolio at [@MNDX.TECH](http://mndx.tech)
-*   🚀  I'm currently working on [@LAYBACK.ME](http://bot.layback.me)
 *   🧠  I'm learning everything JavaScript
 *   🤝  I'm open to collaborating on opensource projects
 
